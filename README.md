@@ -2,9 +2,9 @@
 
 #### 🇺🇸 English Version
 
-| English A1 |     |
-| ---------- | --- |
-|            |     |
+| English A1            |
+| --------------------- |
+| [A1](./01-English-A1) |
 
 ##### 📚 About This Repository
 > A personal repository to track my progress, store notes, resources, and projects as I learn English. Focused on **consistency** and **practical application**.
