@@ -21,7 +21,7 @@
 | **tuna**           | /tú-na/                | atún         |                | Proteínas     | **salad**      | /sá-lad/               | ensalada      |                | Comidas preparadas |
 | **lentils**        | /lén-tils/             | lentejas     |                | Proteínas     | **sandwich**   | /sánd-wich/            | sandwich      |                | Comidas preparadas |
 | **egg**            | /eg/                   | huevo        |                | Proteínas     | **pizza**      | /pít-sa/               | pizza         |                | Comidas preparadas |
-| **Chicken**        |                        | pollo        |                |               | **hamburger**  | /jám-ber-guer/         | hamburguesa   |                | Comidas preparadas |
+| **Chicken**        |                        | pollo        |                | Proteínas     | **hamburger**  | /jám-ber-guer/         | hamburguesa   |                | Comidas preparadas |
 | **cream**          | /krím/                 | crema        |                | Lácteos       | **taco**       | /tá-co/                | taco          |                | Comidas preparadas |
 | **ice cream**      | /áis krím/             | helado       |                | Lácteos       | **sushi**      | /sú-shi/               | sushi         |                | Comidas preparadas |
 | **Cheese**         | /chis/                 | queso        |                | Lácteos       | **cake**       | /kéik/                 | pastel        |                | Postres            |

@@ -73,7 +73,7 @@
 | **tell**       | /tel/             | decir             | tells                   |
 | **become**     | /bi-kám/          | convertirse       | becomes                 |
 | **leave**      | /líiv/            | salir/dejar       | leaves                  |
-| **put**        | /put/             | poner             | puts 5                  |
+| **put**        | /put/             | poner             | puts                    |
 | **mean**       | /míin/            | significar        | means                   |
 | **keep**       | /kíip/            | mantener          | keeps                   |
 | **let**        | /let/             | permitir          | lets                    |

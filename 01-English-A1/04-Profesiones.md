@@ -1,6 +1,7 @@
 	
 ##### **100 profesiones en español e inglés**, organizadas por campos profesionales, con pronunciación en español y género (cuando aplica):
 
+
 | Español                        | Inglés           | Pronunciación (EN para hispanohablantes) | Campo            |
 | ------------------------------ | ---------------- | ---------------------------------------- | ---------------- |
 | **1. Abogado/a**               | Lawyer           | /lóyer/                                  | Derecho          |
@@ -114,7 +115,7 @@
 | **Bombero**       |                | **Economista**    |                | **Guia Turistico/a**       |                | **Modelo**              |                |                |                |
 | **Arquitecto**    |                | **Contador/a**    |                | **Recepcionista de Hotel** |                | **Influencer**          |                |                |                |
 | **Periodista**    |                | **Vendedor/a**    |                | **Entrenador/a**           |                | **Youtuber**            |                |                |                |
-| **Actor**         |                | **Recepcionista** |                | **Atleta**                 |                | **Tatuador/a**          |                |                |                |
+| **Actor**         | a              | **Recepcionista** |                | **Atleta**                 |                | **Tatuador/a**          |                |                |                |
 | **Actriz**        |                | **Secretario/a**  |                | **Nutricionista**          |                | **Masajista**           |                |                |                |
 | **Escritor/a**    |                | **Gerente**       |                | **Fisioterapeuta**         |                | **Mesero**              |                |                |                |
 | **Pintor/a**      |                | **Director/a**    |                | **Dentista/Odontologo**    |                | **Musico**              |                |                |                |
